@@ -1,0 +1,10 @@
+* Time Series Segmenation
+** State of the art
+**** TODO Find Intersting papers
+      SCHEDULED: <2024-01-08 Mon>
+
+
+** Data Set Gathering
+** Algorithms
+*** Mathmatical
+*** Deep learning
