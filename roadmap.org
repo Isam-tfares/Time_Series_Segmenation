@@ -1,7 +1,7 @@
 * Time Series Segmenation
 ** State of the art
 **** TODO Find Intersting papers
-      SCHEDULED: <2024-01-08 Mon>
+      SCHEDULED: <2024-01-15 Mon> DEADLINE: <2024-01-29 Mon>
 
 
 ** Data Set Gathering
