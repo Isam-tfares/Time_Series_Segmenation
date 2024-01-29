@@ -1,10 +1,11 @@
-* Time Series Segmenation
+* Time Series Segmentation
 ** State of the art
-**** TODO Find Intersting papers
+**** DONE Find Interesting papers
       SCHEDULED: <2024-01-15 Mon> DEADLINE: <2024-01-29 Mon>
 
+**** TODO Data Set Gathering
+      SCHEDULED: <2024-01-29 Mon> DEADLINE: <2024-02-05 Mon>
 
-** Data Set Gathering
 ** Algorithms
-*** Mathmatical
+*** Mathematical
 *** Deep learning
