@@ -1,11 +1,18 @@
 * Time Series Segmentation
 ** State of the art
-**** DONE Find Interesting papers
+*** DONE Find Interesting papers
+      - Reading DJEBOUR_2022_archivage.pdf from 2024-01-16 to 2024-01-18
+      - Reading "Algoritmic methods for segmentation of time series.pdf" from 2024-01-18 to 2024-01-21
+      - Reading time-series-analysis-and-its-applications-with-examples-in-r.pdf from 2024-01-22 to 2024-01-26
+      - Reading s10618-023-00923-x.pdf from 2024-01-26 to 2024-01-29
       SCHEDULED: <2024-01-15 Mon> DEADLINE: <2024-01-29 Mon>
-
 **** TODO Data Set Gathering
-      SCHEDULED: <2024-01-29 Mon> DEADLINE: <2024-02-05 Mon>
+      - Finding TSSB that is constructed from one of the UEA & UCR time series classification datasets https://paperswithcode.com/dataset/tssb
+      - Finding a dataset (UCR Time Series Classification Archive) https://www.cs.ucr.edu/~eamonn/time_series_data_2018/
+      SCHEDULED: <2024-02-08 Mon> DEADLINE: <2024-02-29 Mon>
 
-** Algorithms
+**  TODO Algorithms
+      - Start Implemeting Code for Interpolation algorithm
+      SCHEDULED: <2024-02-08 Mon> DEADLINE: <2024-02-29 Mon>
 *** Mathematical
 *** Deep learning
