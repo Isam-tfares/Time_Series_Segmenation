@@ -12,7 +12,8 @@
       SCHEDULED: <2024-02-08 Mon> DEADLINE: <2024-02-29 Mon>
 
 **  TODO Algorithms
-      - Start Implemeting Code for Interpolation algorithm
+      - Implemeting Code for Piecewise Linear Approximation algorithm
       SCHEDULED: <2024-02-08 Mon> DEADLINE: <2024-02-29 Mon>
 *** Mathematical
 *** Deep learning
+
