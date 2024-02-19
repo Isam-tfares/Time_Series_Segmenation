@@ -15,6 +15,8 @@
       - Implemeting Code for Piecewise Linear Approximation algorithm
       - Implementing Code for Symbolic Aggregate ApproXimation (SAX) algorithm 
         link of article used to implement code : https://www.scirp.org/journal/paperinformation?paperid=118206#t1
+      -  Implementing Code for Piecewise Aggregate Approximation algorithm using tslearn.piecewise.PiecewiseAggregateApproximation class
+       https://tslearn.readthedocs.io/en/latest/gen_modules/piecewise/tslearn.piecewise.PiecewiseAggregateApproximation.html
       SCHEDULED: <2024-02-08 Mon> DEADLINE: <2024-02-29 Mon>
 *** Mathematical
 *** Deep learning
