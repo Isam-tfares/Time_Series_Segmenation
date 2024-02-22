@@ -17,6 +17,8 @@
         link of article used to implement code : https://www.scirp.org/journal/paperinformation?paperid=118206#t1
       -  Implementing Code for Piecewise Aggregate Approximation algorithm using tslearn.piecewise.PiecewiseAggregateApproximation class
        https://tslearn.readthedocs.io/en/latest/gen_modules/piecewise/tslearn.piecewise.PiecewiseAggregateApproximation.html
+      -  Using ClaSP algorithm using this package https://github.com/ermshaua/claspy 
+       Explanatory video of algorithm : https://dl.acm.org/doi/10.1145/3459637.3482240
       SCHEDULED: <2024-02-08 Mon> DEADLINE: <2024-02-29 Mon>
 *** Mathematical
 *** Deep learning
