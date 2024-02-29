@@ -9,11 +9,16 @@
 **** TODO Data Set Gathering
       - Finding TSSB that is constructed from one of the UEA & UCR time series classification datasets https://paperswithcode.com/dataset/tssb
       - Finding a dataset (UCR Time Series Classification Archive) https://www.cs.ucr.edu/~eamonn/time_series_data_2018/
+      - Finding a dataset (Crypto Currency Dataset) https://www.kaggle.com/datasets/tr1gg3rtrash/time-series-top-100-crypto-currency-dataset
+      - Finding a dataset (DJIA 30 Stock Time Series) https://www.kaggle.com/datasets/szrlee/stock-time-series-20050101-to-20171231
       SCHEDULED: <2024-02-08 Mon> DEADLINE: <2024-02-29 Mon>
 
 **  TODO Algorithms
       - Implemeting Code for Piecewise Linear Approximation algorithm
       - Implementing Code for Symbolic Aggregate ApproXimation (SAX) algorithm 
+      - Implementing Code for Bottom Up algorithm 
+      - Implementing Code for Sliding Window algorithm 
+      - Implementing Code for Top Down algorithm 
         link of article used to implement code : https://www.scirp.org/journal/paperinformation?paperid=118206#t1
       -  Implementing Code for Piecewise Aggregate Approximation algorithm using tslearn.piecewise.PiecewiseAggregateApproximation class
        https://tslearn.readthedocs.io/en/latest/gen_modules/piecewise/tslearn.piecewise.PiecewiseAggregateApproximation.html
