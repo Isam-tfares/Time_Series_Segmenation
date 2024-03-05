@@ -18,7 +18,7 @@
         https://tslearn.readthedocs.io/en/latest/gen_modules/piecewise/tslearn.piecewise.PiecewiseAggregateApproximation.html
       - Using ClaSP algorithm using this package https://github.com/ermshaua/claspy 
         Explanatory video of algorithm : https://dl.acm.org/doi/10.1145/3459637.3482240
-      - Reading "Time series segmentation with shifting means hidden Markov models" paper
+      - Start Reading "Time series segmentation with shifting means hidden Markov models" paper
         SCHEDULED: <2024-03-05 Fri> DEADLINE: <2024-03-12 Fri>
 *** Mathematical
 *** Deep learning
