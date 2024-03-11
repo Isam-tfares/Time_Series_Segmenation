@@ -24,6 +24,7 @@
       - Using ClaSP algorithm using this package https://github.com/ermshaua/claspy 
         Explanatory video of algorithm : https://dl.acm.org/doi/10.1145/3459637.3482240
       - Start Reading "Time series segmentation with shifting means hidden Markov models" paper
+      - Reading this blog https://medium.com/@natsunoyuki/hidden-markov-models-with-python-c026f778dfa7
         SCHEDULED: <2024-03-05 Fri> DEADLINE: <2024-03-12 Fri>
 *** Mathematical
 *** Deep learning
