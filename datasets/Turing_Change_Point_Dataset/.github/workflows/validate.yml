@@ -1,0 +1,48 @@
+name: Check TCPD
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  schedule:
+    - cron: 16 17 */10 * *
+
+jobs:
+  tcpd-ubuntu:
+    name: check TCPD (direct)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install build-essential
+        shell: bash
+
+      - name: Install Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Ensure clean
+        run: make clean
+        shell: bash
+
+      - name: Build and verify
+        run: make test
+        shell: bash
+
+  tcpd-docker:
+    name: check TCPD (docker)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: TCPD docker check
+        uses: ./.github/workflows/
