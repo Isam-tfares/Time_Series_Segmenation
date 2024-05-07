@@ -6,24 +6,23 @@
       - Reading time-series-analysis-and-its-applications-with-examples-in-r.pdf from 2024-01-22 to 2024-01-26
       - Reading s10618-023-00923-x.pdf from 2024-01-26 to 2024-01-29
       SCHEDULED: <2024-01-15 Mon> DEADLINE: <2024-01-29 Mon>
-*** TODO Data Set Gathering
+*** DONE Data Set Gathering
       - Finding human_activity_segmentation_challenge-main dataset https://github.com/patrickzib/human_activity_segmentation_challenge
       - Finding mobile-sensing-human-activity-data-set-main dataset https://github.com/ermshaua/mobile-sensing-human-activity-data-set
       - Finding Skoltech_Anomaly_Benchmark dataset https://github.com/waico/SKAB
-      - Finding Tennessee_Eastman_Process dataset https://github.com/YKatser/CPDE/tree/master/TEP_data#readme
       - Finding Time_Series_Segmentation_Benchmark dataset https://github.com/ermshaua/time-series-segmentation-benchmark
       - Finding Turing_Change_Point_Dataset dataset https://github.com/alan-turing-institute/TCPD
       SCHEDULED: <2024-03-18 Mon> DEADLINE: <2024-04-01 Mon>
-** TODO Algorithms
+** DONE Algorithms
       - Implementing Code for Bayesian Online Change Point Detection algorithm
       - Implementing Code for Binary Segmentation algorithm 
       - Implementing Code for ClaSP algorithm 
       - Implementing Code for Dynamic Programming algorithm 
       - Implementing Code for FLOSS algorithm 
-      - Implementing Code for Pelt algorithm 
-      - Implementing Code for Window algorithm 
-      - Start Reading "Time series segmentation with shifting means hidden Markov models" paper
-      - Reading this blog https://medium.com/@natsunoyuki/hidden-markov-models-with-python-c026f778dfa7
-        SCHEDULED: <2024-03-05 Fri> DEADLINE: <2024-04-30 Fri>
-*** Mathematical
-*** Deep learning
+      - Implementing Code for FLUSS algorithm 
+      - Implementing Code for Pelt algorithm  
+      SCHEDULED: <2024-03-05 Fri> DEADLINE: <2024-04-30 Fri>
+
+** TODO Evaluating Algorithms
+      -- Evaluating each algorithm in all datasets by mesuring the metrics f_measure,covering,NAB
+
