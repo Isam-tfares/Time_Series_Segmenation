@@ -25,7 +25,3 @@ def bocd(ts, n_cps, return_profile=False):
         return diff, cps
 
     return cps
-
-
-
-
