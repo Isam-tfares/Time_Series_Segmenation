@@ -22,7 +22,9 @@
       - Implementing Code for FLUSS algorithm 
       - Implementing Code for Pelt algorithm  
       SCHEDULED: <2024-03-05 Fri> DEADLINE: <2024-04-30 Fri>
-
-** TODO Evaluating Algorithms
-      -- Evaluating each algorithm in all datasets by mesuring the metrics f_measure,covering,NAB
-
+** DONE Deep Learning
+*** DONE LSTM
+    - Implementing Vanilla LSTM model
+    - LSTM (Long Short-Term Memory) networks are a type of recurrent neural network (RNN) capable of learning long-term dependencies. They are effective for time series segmentation by modeling the temporal dynamics and predicting change points based on historical patterns.
+** DONE Evaluating Algorithms
+      -- Evaluating each algorithm in all datasets by measuring the metrics f_measure, covering, NAB
